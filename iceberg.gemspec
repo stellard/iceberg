@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "iceberg.gemspec",
     "lib/iceberg.rb",
     "test/helper.rb",
     "test/test_iceberg.rb"
