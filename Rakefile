@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "iceberg"
   gem.homepage = "http://github.com/stellard/iceberg"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{just a placeholder for now until public release}
+  gem.description = %Q{just a placeholder for now until public release}
   gem.email = "scott.ellard@gmail.com"
   gem.authors = ["stellard"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
